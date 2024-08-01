@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viscera&label=Profile%20views&color=720eb4&style=plastic" alt="viscera" /> </p>
 
-- 🔭 I’m currently working on [Optimal DnD]([optimaldnd.pt](https://github.com/viscerae/optimaldnd/tree/main))
+- 🔭 I’m currently working on [Optimal DnD](https://github.com/viscerae/optimaldnd/tree/main)
 
 - 🌱 I’m currently learning **JavaScript and Python**
 
